@@ -1,0 +1,16 @@
+﻿.venv/
+__pycache__/
+*.pyc
+
+# Generated output
+/gm/*.html
+/gm/_state/
+
+# Local config (do not commit secrets)
+/gm/config_local.py
+
+# Personal debug data
+/person_debug.json
+
+# Optional env file
+.env
