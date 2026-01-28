@@ -1,4 +1,4 @@
-﻿# Jellyfin Model List
+﻿# Server Shell for Jellyfin
 
 Local, personal Jellyfin dashboard that builds static HTML pages for:
 - Films
@@ -6,6 +6,12 @@ Local, personal Jellyfin dashboard that builds static HTML pages for:
 - Studios
 - Genres
 - Dashboard summary
+
+## Purpose
+
+This project started because I use Jellyfin for adult content that does not match online databases, so I maintain manual metadata for each film. Jellyfin does not provide a way to list all the people I have added across my library, so I built a local tool to generate that overview for myself. It evolved into something I’m happy with, so I’m publishing it for others to use.
+
+Important: This project is built around adult content (porn).
 
 ## Screenshots
 
@@ -87,3 +93,4 @@ python server.py
 
 - If login fails, verify Jellyfin URL/username/password.
 - If server links look wrong, verify `SERVER_ID`.
+
