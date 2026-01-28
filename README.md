@@ -7,6 +7,14 @@ Local, personal Jellyfin dashboard that builds static HTML pages for:
 - Genres
 - Dashboard summary
 
+## Screenshots
+
+![Dashboard](assets/dashboard.png)
+![Films](assets/films.png)
+![Models](assets/models.png)
+![Studios](assets/studios.png)
+![Genres](assets/genres.png)
+
 ## Quick start (Windows)
 
 1) Create venv and install deps:
